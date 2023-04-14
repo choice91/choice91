@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 
 ### Learning
-<img src="https://img.shields.io/badge/TypeScript-0072B4?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Flutter-0072B4?style=flat-square&logo=Flutter&logoColor=white"/></a>
